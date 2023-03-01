@@ -24,7 +24,7 @@ Make sure you have npm installed and java 8 installed, download server folder an
 ## Github? ##
 In process I guess?
 ## This Work Is Created By @NoxShadowYT On YouTube, HackerYijia on Replit, thanks for Introvert for helping me. ##
-## Can I have a sub? [Button:|Sub: NoxShadow YT|](https://www.youtube.com/channel/UCwJu1JDskH0ciFZ6atGNAiw?sub_confirmation=1)
+## How Can I support You? Sub! [Button:|Sub: NoxShadow YT|](https://www.youtube.com/channel/UCwJu1JDskH0ciFZ6atGNAiw?sub_confirmation=1)
 
 
 
